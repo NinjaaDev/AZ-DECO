@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="AZ Deco logo icon">
+  <defs>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8e2a4" />
+      <stop offset="100%" stop-color="#c69b4d" />
+    </linearGradient>
+    <linearGradient id="glyph" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7e2a4" />
+      <stop offset="100%" stop-color="#b9893a" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="256" fill="#1c1512" />
+  <circle cx="256" cy="256" r="210" fill="none" stroke="url(#ring)" stroke-width="18" stroke-linecap="round" stroke-dasharray="1110" stroke-dashoffset="180" />
+  <path d="M158 342 L208 176 L258 342" fill="none" stroke="url(#glyph)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M192 272 H224" stroke="url(#glyph)" stroke-width="20" stroke-linecap="round" />
+  <path d="M270 176 H350 L226 340 H336" fill="none" stroke="url(#glyph)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" />
+  <g fill="url(#glyph)" font-family="'Poppins', 'Montserrat', sans-serif" font-size="60" font-weight="600" letter-spacing="12">
+    <text x="170" y="408">DECO</text>
+  </g>
+</svg>
